@@ -10,5 +10,5 @@ Habilidades: HTML / CSS / JS / REACT / JAVA
 - 📫 Cómo contactarme: stuwargg@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' target="_blank" >](https://twitter.com/@neoatla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' target="_blank" >](https://www.instagram.com/stuwar0306/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' target="_blank"'>](https://www.facebook.com/StuwarGironGarcia/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' target="_blank" >](https://twitter.com/@neoatla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' target="_blank" >](https://www.instagram.com/stuwar0306/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' target="_blank">](https://www.facebook.com/StuwarGironGarcia/)  
 
